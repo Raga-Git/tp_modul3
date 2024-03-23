@@ -1,0 +1,15 @@
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\bin\Debug\net8.0\tpmodul6_1302223025.exe
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\bin\Debug\net8.0\tpmodul6_1302223025.deps.json
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\bin\Debug\net8.0\tpmodul6_1302223025.runtimeconfig.json
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\bin\Debug\net8.0\tpmodul6_1302223025.dll
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\bin\Debug\net8.0\tpmodul6_1302223025.pdb
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\tpmodul6_1302223025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\tpmodul6_1302223025.AssemblyInfoInputs.cache
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\tpmodul6_1302223025.AssemblyInfo.cs
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\tpmodul6_1302223025.csproj.CoreCompileInputs.cache
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\tpmodul6_1302223025.sourcelink.json
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\tpmodul6_1302223025.dll
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\refint\tpmodul6_1302223025.dll
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\tpmodul6_1302223025.pdb
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\tpmodul6_1302223025.genruntimeconfig.cache
+D:\Tel U\Semester 4\KPL\tpmodul6_1302223025\tpmodul6_1302223025\obj\Debug\net8.0\ref\tpmodul6_1302223025.dll
