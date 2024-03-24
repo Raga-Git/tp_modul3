@@ -1,4 +1,6 @@
-﻿public class Program
+﻿using System.Diagnostics;
+
+public class Program
 {
     public class random
     {
@@ -17,6 +19,7 @@
         public SayaTubeVideo(string title)
         {
             random addId = new random();
+            Debug.Assert(title.Length <= 100 && title != null);
             this.title = title;
             id = addId.idrandom();
             playcount = 0;
@@ -25,7 +28,18 @@
         public void increasePlaycount(int playcount)
         {
             this.playcount = playcount;
-            playcount++;
+            Debug.Assert(playcount <= 10000000, "Jumlah playcount melebihi batas");
+            try
+            {
+                checked
+                {
+                    this.playcount = playcount;
+                }
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("Terjadi overflow pada penambahan play count.");
+            }
         }
         public void printVideoDetail()
         {
@@ -38,7 +52,7 @@
     private static void Main(string[] args)
     {
         SayaTubeVideo vid = new SayaTubeVideo("Tutorial Design By Contract - Ragadhitya Janatantra Koeshutama");
-        vid.increasePlaycount(1);
+        vid.increasePlaycount(int.MaxValue);
         vid.printVideoDetail();
     }
 }
